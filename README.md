@@ -2,6 +2,12 @@
 
 I'm Arthur, a front-end developer.
 
-I Love creating web-pages, mainly landing pages.
+I Love creating web-pages, mainly the visual part.
 
-My tech stack consists in React (basic knowledge) and Tailwind (basic knowledge also).
+My Technologies:
+
+-`Front-End Basics (HTML, CSS, JS)`
+-`TailwindCSS`
+-`React`
+-`Basic PHP`
+-`Basic MySQL`
