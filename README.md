@@ -2,7 +2,7 @@
 
 I'm Arthur, a front-end developer.
 
-I Love creating web-pages, mainly the visual part.
+I Love creating web-pages!
 
 ## 📦 My Technologies:
 
