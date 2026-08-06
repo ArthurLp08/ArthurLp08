@@ -10,7 +10,7 @@ Atualmente desenvolvendo projetos com foco em performance, boas práticas e expe
 
 - React
 - JavaScript
-- Vite
+- NextJs
 - TailwindCSS
 - HTML5 & CSS3
 - Git & GitHub
@@ -25,11 +25,6 @@ Atualmente desenvolvendo projetos com foco em performance, boas práticas e expe
 
 ---
 
-## 📂 Projetos em destaque
-
-🔹 Em breve...
-
----
 
 ## 📫 Como me encontrar
 
