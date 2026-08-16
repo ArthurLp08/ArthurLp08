@@ -141,15 +141,9 @@ Tenho especial interesse em:
 ## 📊 GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ArthurLp08&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLp08&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-  />
+![GitHub Streak](https://streak-stats.demolab.com?user=ArthurLp08&theme=transparent&hide_border=true)
+
 </p>
 
 ---
