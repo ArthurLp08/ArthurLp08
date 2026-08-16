@@ -140,8 +140,6 @@ Tenho especial interesse em:
 
 ## 📊 GitHub
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ArthurLp08&show_icons=true&hide_border=true&theme=transparent"
