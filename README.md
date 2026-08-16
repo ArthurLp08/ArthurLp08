@@ -138,16 +138,6 @@ Tenho especial interesse em:
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ArthurLp08&theme=transparent&hide_border=true)
-
-</p>
-
----
-
 ## 📫 Onde me encontrar
 
 <p>
