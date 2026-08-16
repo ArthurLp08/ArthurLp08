@@ -118,8 +118,9 @@ IA aplicada ao desenvolvimento
         ↓
 Arquitetura de produtos
 
-Meu objetivo é deixar de apenas construir interfaces e evoluir para alguém capaz de **entender o problema, pensar na solução e construir o produto completo**.
 ```
+
+Meu objetivo é deixar de apenas construir interfaces e evoluir para alguém capaz de **entender o problema, pensar na solução e construir o produto completo**.
 
 ---
 
