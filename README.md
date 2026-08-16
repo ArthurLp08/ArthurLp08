@@ -117,3 +117,44 @@ Banco de dados
 IA aplicada ao desenvolvimento
         ↓
 Arquitetura de produtos
+
+Meu objetivo é deixar de apenas construir interfaces e evoluir para alguém capaz de **entender o problema, pensar na solução e construir o produto completo**.
+```
+
+---
+
+## 🎯 Objetivo
+
+Atualmente estou buscando evoluir como desenvolvedor e construir projetos cada vez mais próximos de aplicações reais.
+
+Tenho especial interesse em:
+
+- Front-end
+- SaaS
+- Startups
+- Produtos digitais
+- Inteligência Artificial
+- UI/UX
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArthurLp08&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurLp08&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📫 Onde me encontrar
+
+<p>
+  <a href="https://www.linkedin.com/in/arthurlp08/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:josearthurlda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
